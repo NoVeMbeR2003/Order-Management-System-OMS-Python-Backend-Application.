@@ -1,0 +1,12 @@
+{
+    "order_id": "ORD18740",
+    "user_name": "RAHUL",
+    "user_age": 45,
+    "user_location": "MUMBAI",
+    "order_date": "2026-02-24 12:26:12",
+    "product_category": "Groceries",
+    "product_name": "Oil",
+    "quantity": 5,
+    "order_status": "Confirmed",
+    "payment_status": "Pending"
+}

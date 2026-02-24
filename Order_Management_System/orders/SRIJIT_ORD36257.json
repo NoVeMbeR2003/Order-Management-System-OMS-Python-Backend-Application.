@@ -1,0 +1,13 @@
+{
+    "order_id": "ORD36257",
+    "user_name": "SRIJIT",
+    "user_age": 24,
+    "user_location": "ASANSOL",
+    "order_date": "2026-02-24 12:18:41",
+    "product_category": "Sports Equipment",
+    "product_name": "Yoga Mat",
+    "quantity": 5,
+    "order_status": "Shipped",
+    "payment_status": "pending",
+    "status_updated": "2026-02-24 12:42:49"
+}

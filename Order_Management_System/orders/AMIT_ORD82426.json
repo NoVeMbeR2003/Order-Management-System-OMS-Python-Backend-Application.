@@ -1,0 +1,12 @@
+{
+    "order_id": "ORD82426",
+    "user_name": "AMIT",
+    "user_age": 34,
+    "user_location": "KOLKATA",
+    "order_date": "2026-02-24 12:26:44",
+    "product_category": "Beauty Products",
+    "product_name": "Makeup Kit",
+    "quantity": 9,
+    "order_status": "Confirmed",
+    "payment_status": "Pending"
+}
